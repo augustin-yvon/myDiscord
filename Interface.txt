@@ -1,0 +1,18 @@
+Page principale :
+    Une entrée pour écrire le message
+    Un bouton pour envoyer
+    Un écran où on voit les messages
+    Un bouton en haut à gauche pour entrée dans le vocale
+    Un bouton en haut au milieu pour changé de channel
+    Un bouton déconnexion en haut à droite
+
+Page connexion :
+    Page principale flouté en arrière-plan
+    Une entrée pour mail et mot de passe
+    Un bouton connexion
+    Un bouton s'inscrire
+
+Page inscription :
+    Page principale flouté en arrière-plan
+    Une entrée pour nom, prénom, mail et mot de passe
+    Un bouton s'inscrire

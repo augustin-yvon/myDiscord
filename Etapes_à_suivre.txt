@@ -1,0 +1,9 @@
+Définir les fonctionnalités
+
+Créer l'architecture du projet
+
+Créer l'interface graphique
+
+Configurer la base de données : informations utilisateur et messages.
+
+Écrire le code

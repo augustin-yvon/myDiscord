@@ -1,0 +1,18 @@
+Inscription/Connexion : Les utilisateurs doivent pouvoir s'incrire, se connecter et se déconnecter
+
+Création de canaux : Les utilisateurs doivent pouvoir créer des canaux pour communiquer 
+avec d'autres utilisateurs. Les canaux peuvent être publics ou privés.
+
+Communication : Les utilisateurs doivent pouvoir communiquer avec d'autres utilisateurs 
+via des canaux textuelles et vocales. Les messages envoyés doivent inclure l'heure de publication et l'auteur du message.
+
+Récupération des messages précédents : À chaque connexion, les utilisateurs doivent pouvoir 
+récupérer l'ensemble des messages déjà postés dans les canaux qu'ils ont accès.
+
+Peut-être :
+
+Gestion des utilisateurs : Les administrateurs de l'application doivent pouvoir gérer 
+les utilisateurs en modifiant leurs informations de compte, en les bloquant ou en les supprimant.
+
+Gestion des canaux : Les administrateurs de l'application doivent pouvoir gérer les canaux 
+en créant, modifiant ou supprimant des canaux.
